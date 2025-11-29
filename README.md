@@ -12,17 +12,44 @@
 
 <p align="left"> <a href="https://twitter.com/suryaka11476695" target="blank"><img src="https://img.shields.io/twitter/follow/suryaka11476695?logo=twitter&style=for-the-badge" alt="suryaka11476695" /></a> </p>
 
-- 🔭 I’m currently working on **Building responsive frontend projects and practicing DevOps tools such as Linux, Git, Docker, and CI/CD pipelines.**
+---
 
-- 🌱 I’m currently learning **React.js, Linux administration, Git/GitHub workflows, Docker, Kubernetes fundamentals, and CI/CD automation.**
+## 🚀 What I’m Working On  
+- Building **modern, responsive frontend projects** 💻  
+- Practicing **Linux**, **Git**, **Docker**, and **CI/CD pipelines** 🔧  
+- Improving my problem-solving and code quality 🌟  
 
-- 👯 I’m looking to collaborate on **Beginner-friendly frontend or DevOps projects where I can learn, contribute, and grow.**
+---
 
-- 💬 Ask me about **Frontend development, Linux, Git Commands, Docker fundamentals, or anything DevOps-related that I can help with.**
+## 🧠 Currently Learning  
+- ⚛️ **React.js**  
+- 🐧 **Linux Administration**  
+- 🐋 **Docker & Containers**  
+- ☸️ **Kubernetes Basics**  
+- 🔄 **CI/CD with Jenkins & GitHub Actions**
 
-- 📫 How to reach me **suryakants2024@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oxO9GZZhiKbY7Gx2rKwG6IVkHThRf4FC/view?usp=sharing](https://drive.google.com/file/d/1oxO9GZZhiKbY7Gx2rKwG6IVkHThRf4FC/view?usp=sharing)
+## 👯 I’m Looking to Collaborate On  
+- Beginner-friendly **frontend** projects  
+- Small **DevOps** or automation tasks  
+- Open-source contributions 🌍  
+
+---
+
+## 💬 Ask Me About  
+- 🎨 Frontend development  
+- 📁 Linux commands & file system  
+- 🔧 Git & GitHub workflows  
+- 🐳 Docker fundamentals  
+- 💻 Basic automation scripting  
+
+---
+
+## 📄 Resume
+[https://drive.google.com/file/d/1oxO9GZZhiKbY7Gx2rKwG6IVkHThRf4FC/view?usp=sharing](https://drive.google.com/file/d/1oxO9GZZhiKbY7Gx2rKwG6IVkHThRf4FC/view?usp=sharing)
+
+___
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
