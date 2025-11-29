@@ -1,12 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=230&section=header&text=Suryakant%20Sahoo&fontSize=50&fontColor=ffffff&animation=twinkling" />
-</p>
-<p align="center">
-  <img src="profile_round.png" width="150" style="border-radius: 50%; border: 4px solid white;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=230&section=header&text=Code-Build-Automate&fontSize=50&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <h3 align="center">✨ Frontend Developer | 🚀 DevOps Enthusiast | 🌱 Lifelong Learner</h3>
-<h1 align="center">Hi 👋, I'm Suryakant Sahoo</h1>
+<h1 align="center">Hi 👋, I'm Suryakant</h1>
 <h3 align="center">A passionate Frontend Developer with a strong interest in DevOps. I enjoy building clean, responsive user interfaces and automating workflows using DevOps tools. I believe in continuous learning and contributing to impactful tech solutions 🌐⚙️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryakant2025&label=Profile%20views&color=0e75b6&style=flat" alt="suryakant2025" /> </p>
@@ -114,7 +111,6 @@ ___
 </p>
 </div>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryakant2025&show_icons=true&locale=en&layout=compact" alt="suryakant2025" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryakant2025&show_icons=true&locale=en" alt="suryakant2025" /></p>
@@ -122,5 +118,5 @@ ___
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryakant2025&" alt="suryakant2025" /></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,100:00b4d8&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,100:00b4d8&height=250&section=footer&text=Thanks%20for%20visiting%20my%20profile!%20😊&fontSize=20&fontColor=ffffff"/>
 </p>
