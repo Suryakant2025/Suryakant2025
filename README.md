@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=230&section=header&text=Suryakant%20Sahoo&fontSize=50&fontColor=ffffff&animation=twinkling" />
 </p>
+<p align="center">
+  <img src="profile_round.png" width="150" style="border-radius: 50%; border: 4px solid white;" />
+</p>
 
 <h3 align="center">✨ Frontend Developer | 🚀 DevOps Enthusiast | 🌱 Lifelong Learner</h3>
 <h1 align="center">Hi 👋, I'm Suryakant Sahoo</h1>
