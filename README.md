@@ -97,7 +97,7 @@ ___
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="70" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="70" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="70" />
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="70" />
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="70" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="70" />
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="70" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" />
