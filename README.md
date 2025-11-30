@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=230&section=header&text=Code-Build-Automate&fontSize=50&fontColor=ffffff&animation=twinkling" />
+<p align="center" style="margin: 0; padding-top: 50px; padding-bottom: 50px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=230&section=header&text=Code%20•%20Build%20•%20Automate%20🚀&fontSize=50&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <h3 align="center">✨ Frontend Developer | 🚀 DevOps Enthusiast | 🌱 Lifelong Learner</h3>
