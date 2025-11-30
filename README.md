@@ -111,11 +111,18 @@ ___
 </p>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryakant2025&show_icons=true&locale=en&layout=compact" alt="suryakant2025" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suryakant2025&show_icons=true&locale=en&layout=compact" alt="suryakant2025" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryakant2025&show_icons=true&locale=en" alt="suryakant2025" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suryakant2025&show_icons=true&locale=en" alt="suryakant2025" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryakant2025&" alt="suryakant2025" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryakant2025" alt="suryakant2025" />
+</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,100:00b4d8&height=250&section=footer&text=Thanks%20for%20visiting%20my%20profile!%20😊&fontSize=20&fontColor=ffffff"/>
