@@ -70,7 +70,7 @@ ___
     display: flex;
     justify-content: center;
     gap: 40px;         /* gap between logos */
-    margin-bottom: 100px;   /* gap between line 1 & line 2 */
+    margin-bottom: 150px;   /* gap between line 1 & line 2 */
     flex-wrap: nowrap;
   ">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70" />
