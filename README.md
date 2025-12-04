@@ -6,9 +6,9 @@
 <h1 align="center">Hi 👋, I'm Suryakant</h1>
 <h3 align="center">A passionate Frontend Developer with a strong interest in DevOps. I enjoy building clean, responsive user interfaces and automating workflows using DevOps tools. I believe in continuous learning and contributing to impactful tech solutions 🌐⚙️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryakant2025&label=Profile%20views&color=0e75b6&style=flat" alt="suryakant2025" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Suryakant2025&label=Profile%20views&color=0e75b6&style=flat" alt="Suryakant2025" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryakant2025" alt="suryakant2025" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Suryakant2025" alt="Suryakant2025" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/suryaka11476695" target="blank"><img src="https://img.shields.io/twitter/follow/suryaka11476695?logo=twitter&style=for-the-badge" alt="suryaka11476695" /></a> </p>
 
