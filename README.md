@@ -48,7 +48,7 @@
 ---
 
 ## 📄 Resume
-[https://drive.google.com/file/d/1oxO9GZZhiKbY7Gx2rKwG6IVkHThRf4FC/view?usp=sharing](https://drive.google.com/file/d/1oxO9GZZhiKbY7Gx2rKwG6IVkHThRf4FC/view?usp=sharing)
+[https://drive.google.com/file/d/1Hk1VyGxoD07lwurGTNZZtcfiedVGmVSy/view?usp=sharing](https://drive.google.com/file/d/1Hk1VyGxoD07lwurGTNZZtcfiedVGmVSy/view?usp=sharing)
 
 ___
 
