@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=230&section=header&text=Code%20•%20Build%20•%20Automate%20🚀&fontSize=50&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<h3 align="center">✨ Frontend Developer | 🚀 DevOps Practitioner | 🌱 Lifelong Learner</h3>
+<h3 align="center"> 🚀 DevOps Practitioner | ✨ Frontend Developer | 🌱 Lifelong Learner</h3>
 <h1 align="center">Hi 👋, I'm Suryakant</h1>
 <h3 align="center">A passionate Frontend Developer with a strong interest in DevOps. I enjoy building clean, responsive user interfaces and automating workflows using DevOps tools. I believe in continuous learning and contributing to impactful tech solutions 🌐⚙️</h3>
 
